@@ -5,7 +5,7 @@ import os.path
 class Proyecto():
 
 	def __init__(self,archivo):
-		self.archivo=archivo
+		self.archivo=archiv
 
 
 			
